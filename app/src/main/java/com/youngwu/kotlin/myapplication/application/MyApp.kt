@@ -10,7 +10,7 @@ import android.app.Application
 class MyApp : Application() {
 
     companion object {
-        lateinit var app: MyApp
+        lateinit var app: Application
 
         fun getContext(): Application {
             return app
