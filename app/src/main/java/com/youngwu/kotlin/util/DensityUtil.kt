@@ -1,4 +1,4 @@
-package com.youngwu.kotlin.myapplication.util
+package com.youngwu.kotlin.util
 
 import android.content.Context
 

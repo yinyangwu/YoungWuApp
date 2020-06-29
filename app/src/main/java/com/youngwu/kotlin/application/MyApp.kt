@@ -1,4 +1,4 @@
-package com.youngwu.kotlin.myapplication.application
+package com.youngwu.kotlin.application
 
 import android.app.Application
 

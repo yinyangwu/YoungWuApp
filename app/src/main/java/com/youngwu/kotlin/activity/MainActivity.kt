@@ -1,10 +1,10 @@
-package com.youngwu.kotlin.myapplication.activity
+package com.youngwu.kotlin.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.youngwu.kotlin.myapplication.R
-import com.youngwu.kotlin.myapplication.application.MyApp
-import com.youngwu.kotlin.myapplication.util.DensityUtil
+import com.youngwu.kotlin.R
+import com.youngwu.kotlin.application.MyApp
+import com.youngwu.kotlin.util.DensityUtil
 import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.StringBuilder
 
